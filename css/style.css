@@ -1,0 +1,18 @@
+body {
+  background: #000;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+body > div.container {
+  background-image: url(../img/bg-default.jpg);
+  background-repeat: no-repeat;
+  min-height: 860px; 
+}
